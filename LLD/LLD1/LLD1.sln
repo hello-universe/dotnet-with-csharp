@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LLD1", "LLD1\LLD1.csproj", "{0DC5E359-D8E8-4FBB-943E-0A89A5563AF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proj2", "Proj2\Proj2.csproj", "{AC2EBECB-ECB2-46DD-B22F-5E1EC452DA77}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OOPs", "OOPs", "{F4689F0A-EA1D-A9D1-08AA-19437BC8CFFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPsConcept!", "..\OOPs\OOPsConcept!\OOPsConcept!.csproj", "{8CF2F715-4C97-4212-A0FC-C7B02A1EED79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DC5E359-D8E8-4FBB-943E-0A89A5563AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC5E359-D8E8-4FBB-943E-0A89A5563AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC5E359-D8E8-4FBB-943E-0A89A5563AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC5E359-D8E8-4FBB-943E-0A89A5563AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC2EBECB-ECB2-46DD-B22F-5E1EC452DA77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2EBECB-ECB2-46DD-B22F-5E1EC452DA77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC2EBECB-ECB2-46DD-B22F-5E1EC452DA77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC2EBECB-ECB2-46DD-B22F-5E1EC452DA77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CF2F715-4C97-4212-A0FC-C7B02A1EED79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF2F715-4C97-4212-A0FC-C7B02A1EED79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF2F715-4C97-4212-A0FC-C7B02A1EED79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF2F715-4C97-4212-A0FC-C7B02A1EED79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8CF2F715-4C97-4212-A0FC-C7B02A1EED79} = {F4689F0A-EA1D-A9D1-08AA-19437BC8CFFE}
+	EndGlobalSection
+EndGlobal
